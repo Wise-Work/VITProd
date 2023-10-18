@@ -1,0 +1,9 @@
+openai
+PyPDF2
+gradio
+pymongo
+
+pip install openai
+pip install PyPDF2
+pip install gradio
+pip install pymongo
